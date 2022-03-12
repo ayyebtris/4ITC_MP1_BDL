@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/4ITC_MP1_BDL/static/css/main.18a1b726.css",
+    "main.js": "/4ITC_MP1_BDL/static/js/main.b4381a7b.js",
+    "static/js/787.4f61d480.chunk.js": "/4ITC_MP1_BDL/static/js/787.4f61d480.chunk.js",
+    "static/media/affil.png": "/4ITC_MP1_BDL/static/media/affil.db267f3d84d710673272.png",
+    "static/media/soft-skill.png": "/4ITC_MP1_BDL/static/media/soft-skill.d53362bebce6c25f367b.png",
+    "static/media/bbi-2.jpg": "/4ITC_MP1_BDL/static/media/bbi-2.32cc9fffb0d9eae82276.jpg",
+    "static/media/icons8-anime-emoji.gif": "/4ITC_MP1_BDL/static/media/icons8-anime-emoji.c5e59f40c5ab17e7aa78.gif",
+    "static/media/hard-skill.png": "/4ITC_MP1_BDL/static/media/hard-skill.0e137e29f3ea21925d56.png",
+    "static/media/contact.png": "/4ITC_MP1_BDL/static/media/contact.4df3df7e11dbbb04c7a5.png",
+    "index.html": "/4ITC_MP1_BDL/index.html",
+    "main.18a1b726.css.map": "/4ITC_MP1_BDL/static/css/main.18a1b726.css.map",
+    "main.b4381a7b.js.map": "/4ITC_MP1_BDL/static/js/main.b4381a7b.js.map",
+    "787.4f61d480.chunk.js.map": "/4ITC_MP1_BDL/static/js/787.4f61d480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a1b726.css",
+    "static/js/main.b4381a7b.js"
+  ]
+}
